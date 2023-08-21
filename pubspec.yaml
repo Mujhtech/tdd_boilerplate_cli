@@ -9,6 +9,14 @@ environment:
 # Add regular dependencies here.
 dependencies:
   glob: ^2.1.2
+  pubspec_parse: ^1.2.3
+  pub_updater: ^0.3.1
+  stack_trace: ^1.11.1
+  args: ^2.4.2
+  meta: ^1.9.1
+  mason_logger: ^0.2.8
+  mason: ^0.1.0-dev.50
+  lcov_parser: ^0.1.2
 
 dev_dependencies:
   lints: ^2.0.0
